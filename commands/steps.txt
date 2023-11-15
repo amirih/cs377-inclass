@@ -1,0 +1,4 @@
+https://portal.azure.com/ -> create a VM -> open 5432 port 
+ssh wed-15@172.183.17.61
+Wed-15-Wed-15
+pgsql.cmd
